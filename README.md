@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🛠️ I'm currently working on: cybersecurity projects, SOC analysis, and hands-on security labs. <br>👥 I'm looking to collaborate on: Open-source security tools, threat detection techniques, and cybersecurity awareness initiatives.  <br>🆘 I'm looking for help with: Mastering Splunk, advanced threat hunting, and refining incident response skills.  <br>🌱 I'm currently learning: CySA+ certification prep, Windows and Linux hardening, and SIEM analysis.  <br>💬 Ask me about: Cybersecurity, threat intelligence, Windows security, and cloud security (OCI, AWS).  <br>⚡ Fun fact: I love videography and photography. I enjoy capturing moments and editing creative videos! 
+🛠️ I'm currently working on: cybersecurity projects, SOC analysis, and hands-on security labs. <br>👥 I'm looking to collaborate on: Open-source security tools, threat detection techniques, and cybersecurity awareness initiatives.  <br>🆘 I'm looking for help with: Mastering Splunk, advanced threat hunting, and refining incident response skills.  <br>🌱 I'm currently learning: Windows and Linux hardening, and SIEM analysis.  <br>💬 Ask me about: Cybersecurity, threat intelligence, Windows security, and cloud security (OCI, AWS).  <br>⚡ Fun fact: I love videography and photography. I enjoy capturing moments and editing creative videos! 
 
 
 ## 🌐 Socials:
